@@ -1,0 +1,4 @@
+.exit
+quit()
+await governor.state("50226316861145954026397618231845309531487921126022381071750168461149357585042")
+ const governor = await ethers.getContract("GovernorContract");
